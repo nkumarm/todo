@@ -1,0 +1,25 @@
+{
+  "name": "todo",
+  "description": "This is a ToDo Web App to learn NodeJS, Angular",
+  "main": "toDoApp.js",
+  "authors": [
+    "nkumarm"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "todo"
+  ],
+  "homepage": "https://github.com/nkumarm/todo",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "angularjs#^1.6.4"
+  }
+}
