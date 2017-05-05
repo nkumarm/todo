@@ -1,0 +1,16 @@
+html body {
+  background-color:#f0f0f0;
+  font-family: "Open Sans",Arial,Helvetica,Sans-Serif;
+  font-size: 12px;
+}
+.heading {
+  opacity: .8;
+}
+.heading h1 {
+  font-size: 43px;
+  color: #0099CC;
+  font-weight: bold;
+  font-family: monospace;
+  text-decoration: overline;
+  text-transform: capitalize;
+}
