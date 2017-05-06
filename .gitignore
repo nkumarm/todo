@@ -5,6 +5,7 @@ tags
 .svn/
 .vagrant/
 node_modules
+public/libs/components/
 build
 *.pyc
 *.DS_Store
